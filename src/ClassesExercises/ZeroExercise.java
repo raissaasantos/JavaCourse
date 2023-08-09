@@ -1,6 +1,6 @@
 package ClassesExercises;
 
-public class FirstExercise {
+public class ZeroExercise {
     public static void main(String[] args) {
 
         String product1 = "Computer";
