@@ -2,7 +2,7 @@ package ClassesProgress;
 
 import java.util.Scanner;
 
-public class ConditionalStructure {
+public class ConditionalStatement {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
