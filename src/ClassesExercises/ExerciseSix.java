@@ -18,7 +18,7 @@ public class ExerciseSix {
         square = B * B;
         rectangle = A * B;
 
-        System.out.printf("TRIANGLE: %.3f%nCIRCLE: %.3f%nTRAPEZE: %.3f%nSQUARE: %.3f%nRECTANGLE: %.3f%n"
+        System.out.printf("TRIANGLES: %.3f%nCIRCLE: %.3f%nTRAPEZE: %.3f%nSQUARE: %.3f%nRECTANGLE: %.3f%n"
                 , triangle, circle, trapeze, square, rectangle);
 
         sc.close();
