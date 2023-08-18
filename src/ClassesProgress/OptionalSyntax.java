@@ -11,7 +11,7 @@ public class OptionalSyntax {
         double bill = 50.0;
 
         if (minutes > 100) {
-            bill = bill + (minutes - 100) * 2.0;
+            bill += (minutes - 100) * 2.0;
         }
 
         System.out.printf("Bill = R$ %.2f%n", bill);
@@ -20,3 +20,7 @@ public class OptionalSyntax {
 
     }
 }
+
+// a += b;
+// same as
+// a = a + b;
